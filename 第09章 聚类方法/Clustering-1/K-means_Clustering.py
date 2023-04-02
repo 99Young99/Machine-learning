@@ -5,8 +5,6 @@
 # @function: kmeans
 # @version : V1
 
-import math
-import random
 import numpy as np
 from sklearn import datasets,cluster
 import matplotlib.pyplot as plt
