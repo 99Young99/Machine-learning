@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python Machine Learning/python-machine-learning-book-2nd-edition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/周志华机器学习/机器学习代码实现/MachineLearning_Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/周志华机器学习/机器学习代码实现/machine-learning-toy-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/周志华机器学习/机器学习代码实现/machinelearninginaction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/周志华机器学习/机器学习代码实现/习题/MachineLearning_Zhouzhihua_ProblemSets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/李航统计学习方法/Statistical-Learning-Method_Code" vcs="Git" />
   </component>
 </project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/MachineLearning_Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/machine-learning-toy-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/machinelearninginaction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/习题/MachineLearning_Zhouzhihua_ProblemSets" vcs="Git" />
+  </component>
+</project>

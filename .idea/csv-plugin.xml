@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\astropy\coordinates\tests\accuracy\data\fk4_no_e_fk4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\astropy\coordinates\tests\accuracy\data\fk4_no_e_fk5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\astropy\coordinates\tests\accuracy\data\galactic_fk4.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\astropy\coordinates\tests\accuracy\data\icrs_fk5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\bokeh\sampledata\_data\auto-mpg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\bokeh\sampledata\_data\auto-mpg2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\bokeh\sampledata\_data\browsers_nov_2013.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\bokeh\sampledata\_data\elements.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\bokeh\sampledata\_data\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\bokeh\sampledata\_data\percent-bachelors-degrees-women-usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\bokeh\sampledata\_data\sprint.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\bokeh\sampledata\_data\unemployment1948.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\bokeh\sampledata\_data\us_marriages_divorces.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\holoviews\examples\assets\fb_nodes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\hvplot\examples\data\crime.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\intake\cli\sample\states_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\matplotlib\mpl-data\sample_data\percent_bachelors_degrees_women_usa.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\sklearn\datasets\data\boston_house_prices.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\sklearn\datasets\data\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\sklearn\datasets\data\wine_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\datasets\committee\committee.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\datasets\fertility\fertility.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\datasets\macrodata\macrodata.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\datasets\randhie\randhie.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\datasets\sunspots\sunspots.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\gam\tests\results\autos.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\gam\tests\results\motorcycle.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\genmod\tests\results\epil.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\genmod\tests\results\iris.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\miscmodels\tests\results\ologit_ucla.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\nonparametric\tests\results\test_lowess_delta.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\othermod\tests\results\resid_methylation.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\sandbox\regression\tests\racd10data_with_transformed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\stats\tests\results\influence_measures_R.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\stats\tests\results\influence_measures_bool_R.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\tsa\statespace\tests\results\frbny_nowcast\Nowcasting\data\US\2016-06-29.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\tsa\statespace\tests\results\frbny_nowcast\Nowcasting\data\US\2016-07-29.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\tsa\statespace\tests\results\results_wpi1_ar3_matlab_ssm.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\tsa\statespace\tests\results\results_wpi1_missing_ar3_matlab_ssm.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="D:\Program_file\Anaconda\Lib\site-packages\statsmodels\tsa\tests\results\results_ar_forecast_mle_dynamic.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\周志华机器学习\机器学习代码实现\习题\MachineLearning_Zhouzhihua_ProblemSets\data\watermelon3_0_Ch.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
